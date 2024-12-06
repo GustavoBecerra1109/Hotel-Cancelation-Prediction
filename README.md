@@ -1,3 +1,2 @@
-# TF_DMT
+# Hotel Cancelation Prediction
 
-https://tf-diaz-becerra-dmt.streamlit.app/
